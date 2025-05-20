@@ -1,0 +1,7 @@
+Flask
+tensorflow==2.10.0
+h5py
+gunicorn
+Pillow
+numpy
+requests
